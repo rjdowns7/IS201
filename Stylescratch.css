@@ -1,0 +1,17 @@
+
+li {
+    font-weight: normal;
+}
+
+
+
+.textstyle {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bold {
+    font-weight: bold;
+}
+.bgi {
+    background-color: aqua;
+}
